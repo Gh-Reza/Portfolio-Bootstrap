@@ -1,0 +1,23 @@
+html {
+  font-size: 62.5%;
+}
+
+.section-hero {
+  background-color: #1c1a19;
+}
+
+.text-box {
+  padding-top: 19rem;
+  padding-bottom: 19rem;
+}
+
+.text-box h1 {
+  width: 566px;
+  height: 160px;
+  font-family: 'Crete Round', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 82px;
+  color: #f55800;
+}
